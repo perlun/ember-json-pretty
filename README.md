@@ -6,17 +6,17 @@ This component should be use to print the JSON object or JSON text in pretty way
 
 ## Installation
 
+To install with ember-cli:
+
+```sh
+$ ember install ember-json-pretty
+```
+
 To install witn NPM:
 
 ```sh
 $ npm install ember-json-pretty --save-dev
 $ ember generate ember-json-pretty
-```
-
-To install witn ember-cli:
-
-```sh
-$ ember install:addon ember-json-pretty
 ```
 
 ## Example
